@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Time Estimation - Result</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center; /* Center align the heading */
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        strong {
+            color: #4caf50;
+        }
+
+        /* Center align the buttons */
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Style for buttons */
+        .button {
+            padding: 10px 20px;
+            margin: 0 10px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .go-back-button {
+            background-color: #4caf50;
+            color: #fff;
+        }
+
+        .exit-button {
+            background-color: #f44336;
+            color: #fff;
+        }
+
+        .button:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Estimated Project Time - Result</h1>
+        
+        <p>The estimated time on this project is: <strong>{{ prediction }}</strong> months.</p>
+
+        <!-- Button container -->
+        <div class="button-container">
+            <button class="button go-back-button" onclick="goBack()">Go Back</button>
+            <button class="button exit-button" onclick="exitApp()">Exit</button>
+        </div>
+    </div>
+
+    <script>
+        // Function to go back to the previous page
+        function goBack() {
+            window.history.back();
+        }
+
+        // Function to exit the application
+        function exitApp() {
+            window.close();
+        }
+    </script>
+</body>
+</html>

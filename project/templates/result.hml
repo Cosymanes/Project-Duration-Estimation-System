@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Time Estimation - Result</title>
+    <!-- Add any CSS stylesheets or links here -->
+</head>
+<body>
+    <h1>Project Time Estimation - Result</h1>
+    
+    <p>The estimated time spent on the project is: <strong>{{ prediction }}</strong> months.</p>
+    
+    <!-- Add any additional information or formatting here -->
+</body>
+</html>

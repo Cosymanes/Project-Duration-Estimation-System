@@ -1,0 +1,501 @@
+Project Name,Location,Type,Square Meters,Number of Rooms,Soil Type,Budget,Period of the Month,Number of Floors,Time Spent (Months)
+Project 1,Chinhoyi,Warehouse,2586,3,,119110,First half,,5
+Project 2,Kariba,Church,3254,4,,141067,First half,,65
+Project 3,Bulawayo,Warehouse,1909,3,,98869,First half,,3
+Project 4,Victoria Falls,Warehouse,2644,4,,182403,Second half,,5
+Project 5,Victoria Falls,Warehouse,507,5,,31098,First half,,3
+Project 6,Harare,Double Story,2531,4,,129062,Second half,Single story,5
+Project 7,Victoria Falls,Warehouse,3714,3,,106490,First half,,74
+Project 8,Harare,Church,1259,3,,24612,Second half,,3
+Project 9,Bulawayo,Church,1358,2,,188648,First half,,5
+Project 10,Masvingo,Residential home,3360,4,Silty,102746,First half,,100
+Project 11,Chinhoyi,Warehouse,885,5,,3492,First half,,3
+Project 12,Kwekwe,Church,1368,2,,102568,Second half,,5
+Project 13,Mutare,Residential home,4341,2,Sandy,188487,First half,,130
+Project 14,Bulawayo,Residential home,1625,5,Clay,149286,Second half,,48
+Project 15,Mutare,Residential home,1291,2,Sandy,10374,First half,,38
+Project 16,Masvingo,Warehouse,435,3,,32311,First half,,3
+Project 17,Kwekwe,Church,3409,5,,33735,First half,,68
+Project 18,Harare,Warehouse,3259,5,,137377,Second half,,65
+Project 19,Victoria Falls,Warehouse,4875,5,,27203,Second half,,97
+Project 20,Kariba,Warehouse,2126,4,,52985,Second half,,3
+Project 21,Harare,Double Story,2300,4,,77096,First half,Single story,3
+Project 22,Chitungwiza,Warehouse,4718,4,,7154,Second half,,94
+Project 23,Harare,Warehouse,4272,3,,84096,First half,,85
+Project 24,Kariba,Commercial building,2956,2,,188375,Second half,,5
+Project 25,Victoria Falls,Residential home,2915,2,Silty,77322,First half,,87
+Project 26,Masvingo,Church,3889,3,,161720,Second half,,77
+Project 27,Kwekwe,Commercial building,421,4,,64574,Second half,,3
+Project 28,Chitungwiza,Commercial building,2569,3,,37558,First half,,3
+Project 29,Victoria Falls,Residential home,1103,3,Sandy,100279,Second half,,33
+Project 30,Masvingo,Residential home,867,4,Sandy,51594,First half,,26
+Project 31,Bulawayo,Double Story,4021,5,,45436,Second half,Single story,80
+Project 32,Victoria Falls,Church,2720,4,,176395,Second half,,5
+Project 33,Victoria Falls,Residential home,2151,3,Sandy,194078,Second half,,64
+Project 34,Bulawayo,Commercial building,739,4,,129185,Second half,,5
+Project 35,Victoria Falls,Residential home,1204,4,Sandy,133596,First half,,36
+Project 36,Chinhoyi,Residential home,2156,5,Sandy,72381,Second half,,64
+Project 37,Bulawayo,Church,1068,4,,64505,First half,,3
+Project 38,Bulawayo,Commercial building,4327,3,,179921,First half,,86
+Project 39,Victoria Falls,Double Story,4824,2,,86699,First half,Double story,96
+Project 40,Kwekwe,Warehouse,2639,4,,115225,First half,,5
+Project 41,Kariba,Church,746,3,,77392,Second half,,3
+Project 42,Chitungwiza,Church,3352,5,,177496,First half,,67
+Project 43,Bulawayo,Double Story,2219,2,,45450,First half,Single story,3
+Project 44,Bulawayo,Residential home,769,5,Peaty,78196,Second half,,23
+Project 45,Chitungwiza,Warehouse,564,3,,120575,First half,,5
+Project 46,Kwekwe,Church,3926,2,,112183,First half,,78
+Project 47,Harare,Church,2229,3,,187809,First half,,5
+Project 48,Chitungwiza,Church,745,3,,62112,Second half,,3
+Project 49,Victoria Falls,Commercial building,716,4,,155439,Second half,,5
+Project 50,Harare,Double Story,3488,3,,143984,Second half,Double story,69
+Project 51,Gweru,Church,4216,2,,17326,First half,,84
+Project 52,Gweru,Commercial building,1880,3,,166438,Second half,,5
+Project 53,Victoria Falls,Double Story,1457,4,,184388,First half,Single story,5
+Project 54,Mutare,Warehouse,4788,2,,81200,First half,,95
+Project 55,Victoria Falls,Commercial building,3999,5,,44142,Second half,,79
+Project 56,Kwekwe,Double Story,1592,5,,103692,Second half,Single story,5
+Project 57,Gweru,Commercial building,2088,5,,70015,Second half,,3
+Project 58,Mutare,Commercial building,2386,2,,135922,Second half,,5
+Project 59,Kariba,Church,1814,4,,101204,Second half,,5
+Project 60,Harare,Residential home,773,5,Clay,140985,First half,,23
+Project 61,Harare,Double Story,1868,4,,166843,First half,Single story,5
+Project 62,Masvingo,Residential home,2920,3,Peaty,136336,First half,,87
+Project 63,Harare,Church,3163,4,,113671,First half,,63
+Project 64,Kwekwe,Commercial building,4751,3,,65177,First half,,95
+Project 65,Victoria Falls,Commercial building,4591,3,,9687,First half,,91
+Project 66,Victoria Falls,Residential home,1213,3,Silty,129222,First half,,36
+Project 67,Mutare,Warehouse,2345,4,,89919,Second half,,3
+Project 68,Kwekwe,Double Story,1278,2,,116032,Second half,Double story,5
+Project 69,Bulawayo,Commercial building,697,4,,77863,Second half,,3
+Project 70,Kariba,Church,1501,5,,15440,Second half,,3
+Project 71,Chinhoyi,Double Story,4768,3,,58324,First half,Double story,95
+Project 72,Mutare,Commercial building,3883,4,,172568,First half,,77
+Project 73,Kwekwe,Warehouse,3189,5,,61115,First half,,63
+Project 74,Chinhoyi,Warehouse,597,3,,171331,Second half,,5
+Project 75,Mutare,Double Story,3099,3,,94014,Second half,Double story,61
+Project 76,Victoria Falls,Warehouse,2586,4,,71881,Second half,,3
+Project 77,Chinhoyi,Warehouse,2955,4,,143750,First half,,5
+Project 78,Kwekwe,Double Story,1969,5,,7731,Second half,Single story,3
+Project 79,Kwekwe,Church,2941,2,,24630,Second half,,3
+Project 80,Bulawayo,Double Story,1087,2,,139217,First half,Double story,5
+Project 81,Mutare,Warehouse,3233,5,,25468,First half,,64
+Project 82,Harare,Residential home,3367,2,Silty,92035,First half,,101
+Project 83,Masvingo,Double Story,3851,2,,74451,Second half,Single story,77
+Project 84,Bulawayo,Residential home,2309,5,Peaty,185036,Second half,,69
+Project 85,Mutare,Residential home,1491,2,Sandy,113313,Second half,,44
+Project 86,Masvingo,Church,3897,2,,170249,First half,,77
+Project 87,Masvingo,Commercial building,3249,4,,82545,Second half,,64
+Project 88,Victoria Falls,Church,1092,2,,6232,First half,,3
+Project 89,Gweru,Warehouse,1191,3,,148316,First half,,5
+Project 90,Gweru,Warehouse,3498,2,,90712,Second half,,69
+Project 91,Masvingo,Double Story,1475,2,,195630,First half,Single story,5
+Project 92,Chinhoyi,Double Story,493,4,,176240,First half,Double story,5
+Project 93,Mutare,Residential home,2885,2,Sandy,82534,Second half,,86
+Project 94,Harare,Double Story,3180,3,,119750,First half,Single story,63
+Project 95,Kwekwe,Warehouse,2991,5,,128695,Second half,,5
+Project 96,Kwekwe,Commercial building,3400,2,,106323,Second half,,68
+Project 97,Gweru,Commercial building,671,4,,144260,First half,,5
+Project 98,Chitungwiza,Residential home,803,2,Silty,181918,First half,,24
+Project 99,Chitungwiza,Church,545,5,,186566,Second half,,5
+Project 100,Mutare,Residential home,2105,3,Clay,75962,First half,,63
+Project 101,Kariba,Commercial building,3423,3,,112673,First half,,68
+Project 102,Bulawayo,Church,2373,2,,92295,Second half,,3
+Project 103,Kariba,Commercial building,690,3,,40306,Second half,,3
+Project 104,Bulawayo,Church,1603,2,,11985,Second half,,3
+Project 105,Harare,Church,1379,2,,96385,First half,,3
+Project 106,Kwekwe,Commercial building,1406,3,,84635,First half,,3
+Project 107,Masvingo,Residential home,1663,3,Loam,178918,First half,,49
+Project 108,Gweru,Double Story,1737,3,,53565,Second half,Single story,3
+Project 109,Bulawayo,Double Story,2743,2,,148997,Second half,Single story,5
+Project 110,Victoria Falls,Double Story,4230,2,,87923,Second half,Double story,84
+Project 111,Victoria Falls,Church,951,5,,105063,Second half,,5
+Project 112,Harare,Warehouse,2248,5,,45240,Second half,,3
+Project 113,Harare,Church,1421,2,,24496,Second half,,3
+Project 114,Chitungwiza,Residential home,3303,5,Loam,159583,Second half,,99
+Project 115,Chitungwiza,Church,876,2,,54154,Second half,,3
+Project 116,Victoria Falls,Warehouse,673,5,,115677,Second half,,5
+Project 117,Chinhoyi,Residential home,4348,4,Clay,48601,Second half,,130
+Project 118,Chinhoyi,Double Story,1201,3,,147952,Second half,Single story,5
+Project 119,Kariba,Warehouse,2906,3,,119143,First half,,5
+Project 120,Mutare,Double Story,4167,2,,16376,Second half,Double story,83
+Project 121,Chitungwiza,Commercial building,645,5,,31589,Second half,,3
+Project 122,Chinhoyi,Commercial building,4437,4,,110845,First half,,88
+Project 123,Bulawayo,Double Story,3221,5,,169603,Second half,Double story,64
+Project 124,Kwekwe,Double Story,4314,4,,70139,First half,Double story,86
+Project 125,Victoria Falls,Commercial building,4034,3,,191313,Second half,,80
+Project 126,Masvingo,Residential home,772,5,Peaty,16921,First half,,23
+Project 127,Gweru,Double Story,4572,2,,181292,Second half,Single story,91
+Project 128,Kwekwe,Commercial building,935,3,,77529,First half,,3
+Project 129,Chitungwiza,Warehouse,2954,2,,173477,First half,,5
+Project 130,Bulawayo,Commercial building,2356,3,,82894,First half,,3
+Project 131,Masvingo,Church,3980,5,,48702,Second half,,79
+Project 132,Chitungwiza,Residential home,3174,5,Silty,10412,Second half,,95
+Project 133,Harare,Warehouse,2603,3,,152769,First half,,5
+Project 134,Victoria Falls,Double Story,1327,5,,94430,First half,Double story,3
+Project 135,Masvingo,Church,2277,4,,66140,First half,,3
+Project 136,Chinhoyi,Church,4961,5,,171820,Second half,,99
+Project 137,Harare,Warehouse,3936,5,,65551,Second half,,78
+Project 138,Victoria Falls,Commercial building,3544,4,,37698,Second half,,70
+Project 139,Masvingo,Residential home,2381,2,Silty,32727,First half,,71
+Project 140,Kariba,Commercial building,525,5,,91000,First half,,3
+Project 141,Victoria Falls,Residential home,3909,2,Silty,11228,Second half,,117
+Project 142,Kwekwe,Church,2270,5,,153461,Second half,,5
+Project 143,Mutare,Residential home,3022,3,Clay,124728,Second half,,90
+Project 144,Bulawayo,Double Story,2662,4,,186768,First half,Single story,5
+Project 145,Chitungwiza,Double Story,2536,2,,65645,Second half,Single story,3
+Project 146,Gweru,Church,2328,5,,97872,First half,,3
+Project 147,Bulawayo,Warehouse,1875,5,,134051,First half,,5
+Project 148,Gweru,Warehouse,3110,3,,191129,First half,,62
+Project 149,Chitungwiza,Warehouse,4624,5,,146884,Second half,,92
+Project 150,Kwekwe,Commercial building,3485,5,,176062,First half,,69
+Project 151,Mutare,Warehouse,2976,3,,123120,Second half,,5
+Project 152,Kariba,Warehouse,1090,2,,164333,Second half,,5
+Project 153,Victoria Falls,Church,1460,4,,141014,Second half,,5
+Project 154,Bulawayo,Double Story,2168,3,,190879,Second half,Single story,5
+Project 155,Masvingo,Church,4889,5,,167216,First half,,97
+Project 156,Chitungwiza,Double Story,3196,2,,169624,First half,Double story,63
+Project 157,Masvingo,Church,3354,2,,25111,Second half,,67
+Project 158,Chinhoyi,Warehouse,3597,5,,56424,First half,,71
+Project 159,Harare,Warehouse,3945,5,,164071,First half,,78
+Project 160,Kwekwe,Commercial building,2417,2,,171502,Second half,,5
+Project 161,Victoria Falls,Warehouse,2665,3,,81525,Second half,,3
+Project 162,Masvingo,Church,1555,5,,154435,Second half,,5
+Project 163,Chinhoyi,Commercial building,4754,5,,110236,Second half,,95
+Project 164,Gweru,Double Story,2042,3,,69371,First half,Double story,3
+Project 165,Gweru,Church,2605,4,,195560,First half,,5
+Project 166,Gweru,Residential home,4465,4,Silty,81033,Second half,,133
+Project 167,Chitungwiza,Church,3775,4,,199892,First half,,75
+Project 168,Victoria Falls,Warehouse,1718,3,,139365,First half,,5
+Project 169,Victoria Falls,Residential home,1982,2,Sandy,28360,First half,,59
+Project 170,Bulawayo,Warehouse,2260,5,,60850,Second half,,3
+Project 171,Harare,Warehouse,4074,4,,104805,Second half,,81
+Project 172,Victoria Falls,Warehouse,2163,2,,150516,First half,,5
+Project 173,Masvingo,Residential home,2142,2,Loam,13234,Second half,,64
+Project 174,Harare,Warehouse,4661,5,,77736,Second half,,93
+Project 175,Chinhoyi,Church,3988,3,,46631,First half,,79
+Project 176,Chinhoyi,Double Story,3647,3,,130929,First half,Double story,72
+Project 177,Mutare,Warehouse,1257,4,,54310,First half,,3
+Project 178,Mutare,Double Story,1024,4,,151622,First half,Double story,5
+Project 179,Chinhoyi,Warehouse,2850,4,,56655,First half,,3
+Project 180,Kariba,Warehouse,4719,3,,172829,Second half,,94
+Project 181,Masvingo,Residential home,3502,4,Sandy,102828,Second half,,105
+Project 182,Chitungwiza,Double Story,4202,4,,64887,First half,Double story,84
+Project 183,Gweru,Double Story,1510,3,,199692,First half,Double story,5
+Project 184,Masvingo,Commercial building,4368,2,,48190,First half,,87
+Project 185,Chitungwiza,Commercial building,3234,2,,40082,First half,,64
+Project 186,Masvingo,Double Story,4668,4,,25632,First half,Single story,93
+Project 187,Harare,Commercial building,992,2,,68418,Second half,,3
+Project 188,Bulawayo,Church,2889,4,,191260,First half,,5
+Project 189,Bulawayo,Residential home,2643,2,Silty,24633,First half,,79
+Project 190,Gweru,Church,4928,3,,192063,First half,,98
+Project 191,Victoria Falls,Double Story,4817,2,,106651,Second half,Single story,96
+Project 192,Kariba,Residential home,1348,2,Sandy,98032,Second half,,40
+Project 193,Masvingo,Double Story,3870,2,,142484,Second half,Single story,77
+Project 194,Chinhoyi,Double Story,1046,2,,70017,Second half,Single story,3
+Project 195,Victoria Falls,Commercial building,578,3,,148322,First half,,5
+Project 196,Harare,Warehouse,3777,4,,51025,Second half,,75
+Project 197,Kariba,Double Story,438,2,,32633,Second half,Double story,3
+Project 198,Gweru,Church,3709,4,,98442,First half,,74
+Project 199,Bulawayo,Double Story,1084,3,,11711,First half,Double story,3
+Project 200,Kwekwe,Church,1998,2,,74709,Second half,,3
+Project 201,Victoria Falls,Double Story,4656,2,,174299,First half,Single story,93
+Project 202,Chinhoyi,Warehouse,1973,3,,154249,Second half,,5
+Project 203,Gweru,Warehouse,2003,2,,6036,First half,,3
+Project 204,Bulawayo,Commercial building,1561,2,,90451,First half,,3
+Project 205,Chitungwiza,Commercial building,3788,2,,172514,Second half,,75
+Project 206,Chitungwiza,Residential home,3946,5,Sandy,132610,Second half,,118
+Project 207,Mutare,Church,3811,3,,98071,Second half,,76
+Project 208,Kariba,Double Story,2747,2,,12902,Second half,Double story,3
+Project 209,Victoria Falls,Residential home,3795,4,Silty,134595,First half,,113
+Project 210,Kwekwe,Double Story,3249,3,,173573,First half,Single story,64
+Project 211,Chitungwiza,Double Story,4763,2,,172094,Second half,Double story,95
+Project 212,Chitungwiza,Residential home,3800,2,Loam,177842,Second half,,114
+Project 213,Bulawayo,Church,3010,3,,162725,Second half,,60
+Project 214,Harare,Commercial building,3212,3,,57715,First half,,64
+Project 215,Chitungwiza,Warehouse,3374,5,,106993,Second half,,67
+Project 216,Chinhoyi,Church,722,2,,137046,Second half,,5
+Project 217,Bulawayo,Commercial building,3285,5,,36461,First half,,65
+Project 218,Kwekwe,Residential home,2101,3,Clay,156706,Second half,,63
+Project 219,Chitungwiza,Warehouse,424,4,,33602,First half,,3
+Project 220,Victoria Falls,Church,3079,2,,160281,Second half,,61
+Project 221,Mutare,Warehouse,1325,2,,163355,Second half,,5
+Project 222,Bulawayo,Church,4828,2,,122462,First half,,96
+Project 223,Mutare,Residential home,514,5,Silty,99708,Second half,,15
+Project 224,Kwekwe,Double Story,1858,2,,73475,Second half,Double story,3
+Project 225,Harare,Commercial building,2336,5,,108306,First half,,5
+Project 226,Kariba,Warehouse,1941,2,,199689,Second half,,5
+Project 227,Victoria Falls,Commercial building,2711,4,,103711,First half,,5
+Project 228,Kwekwe,Warehouse,3519,3,,5896,First half,,70
+Project 229,Masvingo,Residential home,1182,2,Loam,116269,First half,,35
+Project 230,Chitungwiza,Residential home,4117,2,Clay,73962,First half,,123
+Project 231,Victoria Falls,Commercial building,1427,3,,131686,First half,,5
+Project 232,Masvingo,Church,3310,2,,15350,Second half,,66
+Project 233,Bulawayo,Church,2416,3,,77661,First half,,3
+Project 234,Victoria Falls,Commercial building,485,3,,105661,Second half,,5
+Project 235,Gweru,Commercial building,2000,5,,106531,First half,,5
+Project 236,Kariba,Residential home,1309,5,Peaty,137878,Second half,,39
+Project 237,Chitungwiza,Double Story,2504,5,,66452,First half,Double story,3
+Project 238,Mutare,Warehouse,3901,5,,45070,First half,,78
+Project 239,Harare,Commercial building,857,3,,167406,Second half,,5
+Project 240,Bulawayo,Commercial building,3963,4,,191891,Second half,,79
+Project 241,Masvingo,Warehouse,3425,2,,21771,Second half,,68
+Project 242,Harare,Double Story,1938,4,,150070,Second half,Single story,5
+Project 243,Victoria Falls,Commercial building,2710,3,,70866,Second half,,3
+Project 244,Gweru,Warehouse,1605,4,,24263,First half,,3
+Project 245,Bulawayo,Warehouse,2571,4,,182254,First half,,5
+Project 246,Victoria Falls,Residential home,1842,2,Peaty,123591,Second half,,55
+Project 247,Bulawayo,Church,2504,3,,103719,First half,,5
+Project 248,Harare,Double Story,843,4,,192073,Second half,Single story,5
+Project 249,Kwekwe,Commercial building,3858,3,,38252,First half,,77
+Project 250,Gweru,Warehouse,410,4,,93705,Second half,,3
+Project 251,Kariba,Commercial building,472,2,,177630,First half,,5
+Project 252,Gweru,Residential home,3864,3,Loam,197912,First half,,115
+Project 253,Kwekwe,Church,1799,2,,113846,First half,,5
+Project 254,Masvingo,Commercial building,1023,4,,193590,Second half,,5
+Project 255,Bulawayo,Double Story,4882,2,,27083,Second half,Double story,97
+Project 256,Victoria Falls,Church,845,3,,78069,Second half,,3
+Project 257,Bulawayo,Warehouse,3983,5,,165836,Second half,,79
+Project 258,Harare,Church,978,3,,25589,First half,,3
+Project 259,Chitungwiza,Church,1085,4,,102297,First half,,5
+Project 260,Mutare,Double Story,1488,5,,192581,First half,Double story,5
+Project 261,Bulawayo,Warehouse,1088,4,,81231,First half,,3
+Project 262,Mutare,Church,4637,4,,29789,First half,,92
+Project 263,Gweru,Commercial building,1123,2,,168724,First half,,5
+Project 264,Kariba,Warehouse,3973,5,,193855,First half,,79
+Project 265,Kwekwe,Double Story,3083,2,,89498,First half,Single story,61
+Project 266,Gweru,Church,707,2,,155914,First half,,5
+Project 267,Chitungwiza,Commercial building,1750,5,,35858,Second half,,3
+Project 268,Chinhoyi,Double Story,2424,3,,114632,Second half,Single story,5
+Project 269,Chitungwiza,Double Story,4662,5,,5426,First half,Single story,93
+Project 270,Mutare,Commercial building,4020,3,,80262,Second half,,80
+Project 271,Chitungwiza,Commercial building,3909,3,,52802,Second half,,78
+Project 272,Kwekwe,Commercial building,1659,5,,29856,Second half,,3
+Project 273,Chinhoyi,Residential home,2977,4,Silty,174424,Second half,,89
+Project 274,Kwekwe,Commercial building,2149,3,,75131,First half,,3
+Project 275,Chitungwiza,Residential home,4618,3,Loam,83519,First half,,138
+Project 276,Bulawayo,Warehouse,1490,4,,15517,Second half,,3
+Project 277,Masvingo,Residential home,811,4,Peaty,49920,First half,,24
+Project 278,Masvingo,Warehouse,1531,3,,176237,First half,,5
+Project 279,Mutare,Commercial building,3484,2,,185201,Second half,,69
+Project 280,Kwekwe,Warehouse,4986,4,,174817,First half,,99
+Project 281,Chinhoyi,Double Story,4832,5,,54248,Second half,Double story,96
+Project 282,Bulawayo,Commercial building,2911,4,,21000,Second half,,3
+Project 283,Bulawayo,Church,4916,4,,31442,First half,,98
+Project 284,Kwekwe,Commercial building,4284,2,,159869,First half,,85
+Project 285,Masvingo,Double Story,1962,5,,21032,Second half,Double story,3
+Project 286,Masvingo,Church,3366,5,,101492,Second half,,67
+Project 287,Gweru,Commercial building,2529,3,,152012,Second half,,5
+Project 288,Harare,Warehouse,3693,2,,102515,First half,,73
+Project 289,Kwekwe,Warehouse,1885,2,,170913,Second half,,5
+Project 290,Chinhoyi,Double Story,2944,4,,80382,First half,Single story,3
+Project 291,Kwekwe,Commercial building,4435,4,,60273,First half,,88
+Project 292,Gweru,Residential home,3984,2,Silty,32775,Second half,,119
+Project 293,Kwekwe,Church,2157,2,,65398,Second half,,3
+Project 294,Masvingo,Commercial building,4974,2,,59297,First half,,99
+Project 295,Masvingo,Warehouse,4936,2,,67699,Second half,,98
+Project 296,Victoria Falls,Warehouse,2151,5,,172410,Second half,,5
+Project 297,Gweru,Commercial building,473,2,,74027,Second half,,3
+Project 298,Harare,Church,1766,5,,117829,Second half,,5
+Project 299,Harare,Warehouse,1363,2,,100251,First half,,5
+Project 300,Bulawayo,Residential home,4579,4,Peaty,30297,Second half,,137
+Project 301,Gweru,Commercial building,1373,4,,172859,First half,,5
+Project 302,Chinhoyi,Commercial building,1732,5,,97179,Second half,,3
+Project 303,Victoria Falls,Warehouse,4621,5,,129985,First half,,92
+Project 304,Harare,Church,4127,5,,86225,Second half,,82
+Project 305,Chitungwiza,Commercial building,918,4,,106098,First half,,5
+Project 306,Harare,Residential home,1952,2,Loam,19110,Second half,,58
+Project 307,Harare,Warehouse,3934,2,,144294,Second half,,78
+Project 308,Kariba,Warehouse,787,4,,113903,First half,,5
+Project 309,Gweru,Church,1318,4,,156310,First half,,5
+Project 310,Kariba,Church,4343,3,,132065,First half,,86
+Project 311,Gweru,Residential home,4466,4,Sandy,174520,Second half,,133
+Project 312,Gweru,Church,1863,3,,83382,First half,,3
+Project 313,Gweru,Warehouse,1733,5,,76109,Second half,,3
+Project 314,Kwekwe,Residential home,458,5,Silty,159217,First half,,13
+Project 315,Harare,Double Story,3259,5,,64829,Second half,Double story,65
+Project 316,Chinhoyi,Double Story,4973,4,,141634,First half,Double story,99
+Project 317,Chinhoyi,Residential home,3761,2,Peaty,187721,Second half,,112
+Project 318,Mutare,Residential home,858,2,Peaty,182487,Second half,,25
+Project 319,Masvingo,Residential home,1276,5,Peaty,137578,Second half,,38
+Project 320,Harare,Commercial building,4598,3,,149586,Second half,,91
+Project 321,Kariba,Residential home,1046,2,Clay,173664,First half,,31
+Project 322,Kariba,Church,3333,3,,59058,First half,,66
+Project 323,Mutare,Commercial building,1341,4,,154923,Second half,,5
+Project 324,Victoria Falls,Residential home,2415,5,Silty,144626,Second half,,72
+Project 325,Kwekwe,Double Story,2482,3,,100101,Second half,Double story,5
+Project 326,Bulawayo,Church,1405,5,,43345,Second half,,3
+Project 327,Victoria Falls,Commercial building,4706,4,,107499,Second half,,94
+Project 328,Masvingo,Residential home,717,2,Peaty,51498,Second half,,21
+Project 329,Bulawayo,Commercial building,1359,4,,57952,Second half,,3
+Project 330,Mutare,Warehouse,837,2,,93679,First half,,3
+Project 331,Bulawayo,Church,4864,2,,109328,Second half,,97
+Project 332,Victoria Falls,Church,1986,5,,197566,Second half,,5
+Project 333,Kariba,Warehouse,1762,2,,59061,First half,,3
+Project 334,Kariba,Warehouse,1453,2,,81579,Second half,,3
+Project 335,Chitungwiza,Double Story,641,3,,183182,Second half,Single story,5
+Project 336,Chinhoyi,Church,1010,4,,198165,Second half,,5
+Project 337,Kariba,Commercial building,4639,3,,47392,First half,,92
+Project 338,Kwekwe,Commercial building,2320,3,,124898,Second half,,5
+Project 339,Chitungwiza,Commercial building,2321,3,,40833,Second half,,3
+Project 340,Masvingo,Warehouse,3420,2,,171587,Second half,,68
+Project 341,Masvingo,Residential home,3440,5,Sandy,52934,First half,,103
+Project 342,Harare,Residential home,3334,2,Sandy,174919,Second half,,100
+Project 343,Masvingo,Residential home,1771,4,Loam,160548,First half,,53
+Project 344,Harare,Church,4066,5,,128968,First half,,81
+Project 345,Kwekwe,Church,564,2,,197132,Second half,,5
+Project 346,Chinhoyi,Commercial building,2256,4,,31621,First half,,3
+Project 347,Kwekwe,Residential home,1391,4,Loam,73498,Second half,,41
+Project 348,Kariba,Church,4835,3,,155562,Second half,,96
+Project 349,Bulawayo,Commercial building,4830,5,,104793,Second half,,96
+Project 350,Chitungwiza,Double Story,3575,2,,190373,First half,Single story,71
+Project 351,Bulawayo,Commercial building,597,3,,149076,Second half,,5
+Project 352,Gweru,Double Story,4883,5,,68686,Second half,Single story,97
+Project 353,Kwekwe,Warehouse,963,4,,194044,Second half,,5
+Project 354,Kariba,Commercial building,4180,2,,29102,Second half,,83
+Project 355,Kwekwe,Church,781,3,,9235,Second half,,3
+Project 356,Kariba,Double Story,4375,2,,125616,Second half,Single story,87
+Project 357,Kwekwe,Warehouse,1386,4,,165608,Second half,,5
+Project 358,Kwekwe,Warehouse,493,5,,17342,First half,,3
+Project 359,Harare,Double Story,3104,2,,58940,Second half,Single story,62
+Project 360,Kariba,Residential home,900,2,Clay,147275,Second half,,27
+Project 361,Harare,Warehouse,3565,4,,170124,Second half,,71
+Project 362,Chitungwiza,Residential home,3432,2,Loam,32161,Second half,,102
+Project 363,Kwekwe,Church,2548,4,,52516,First half,,3
+Project 364,Chinhoyi,Warehouse,2245,4,,139936,First half,,5
+Project 365,Kwekwe,Commercial building,4231,3,,95706,First half,,84
+Project 366,Masvingo,Commercial building,830,5,,172363,First half,,5
+Project 367,Kwekwe,Church,2956,4,,151239,First half,,5
+Project 368,Masvingo,Warehouse,2921,5,,24897,First half,,3
+Project 369,Victoria Falls,Warehouse,4947,2,,16686,Second half,,98
+Project 370,Chitungwiza,Warehouse,3384,5,,144631,First half,,67
+Project 371,Gweru,Commercial building,2841,4,,104981,First half,,5
+Project 372,Chinhoyi,Double Story,3779,2,,93306,First half,Double story,75
+Project 373,Harare,Church,3395,5,,49430,Second half,,67
+Project 374,Victoria Falls,Double Story,1143,3,,25673,First half,Double story,3
+Project 375,Kwekwe,Residential home,2112,3,Clay,130878,Second half,,63
+Project 376,Mutare,Residential home,559,4,Silty,28578,First half,,16
+Project 377,Harare,Church,3398,3,,176952,Second half,,67
+Project 378,Kwekwe,Double Story,4138,4,,87821,Second half,Single story,82
+Project 379,Harare,Warehouse,3892,5,,81706,Second half,,77
+Project 380,Harare,Residential home,4956,5,Peaty,86082,Second half,,148
+Project 381,Chitungwiza,Double Story,3940,4,,90052,First half,Single story,78
+Project 382,Kwekwe,Double Story,1182,2,,3905,Second half,Double story,3
+Project 383,Chitungwiza,Commercial building,3822,3,,189591,Second half,,76
+Project 384,Kwekwe,Church,3693,2,,126182,First half,,73
+Project 385,Masvingo,Double Story,1636,4,,49595,First half,Single story,3
+Project 386,Harare,Residential home,544,4,Loam,29284,First half,,16
+Project 387,Chinhoyi,Double Story,3984,3,,40000,Second half,Single story,79
+Project 388,Chitungwiza,Residential home,3916,5,Peaty,162262,Second half,,117
+Project 389,Chitungwiza,Warehouse,3864,3,,87493,Second half,,77
+Project 390,Mutare,Warehouse,1284,2,,16257,First half,,3
+Project 391,Chinhoyi,Church,2694,2,,5373,Second half,,3
+Project 392,Chitungwiza,Residential home,959,5,Silty,130731,Second half,,28
+Project 393,Chinhoyi,Warehouse,1506,5,,144357,Second half,,5
+Project 394,Masvingo,Double Story,1698,4,,132153,Second half,Single story,5
+Project 395,Kwekwe,Church,1182,4,,137780,Second half,,5
+Project 396,Gweru,Residential home,3016,2,Sandy,157464,Second half,,90
+Project 397,Gweru,Church,939,5,,142113,Second half,,5
+Project 398,Kariba,Double Story,2412,2,,129264,Second half,Single story,5
+Project 399,Kwekwe,Church,2172,3,,196527,Second half,,5
+Project 400,Victoria Falls,Residential home,923,5,Peaty,161169,First half,,27
+Project 401,Harare,Commercial building,3629,5,,149231,First half,,72
+Project 402,Bulawayo,Warehouse,3794,5,,77296,First half,,75
+Project 403,Kwekwe,Residential home,3836,3,Clay,119420,Second half,,115
+Project 404,Chinhoyi,Residential home,1531,4,Loam,173781,First half,,45
+Project 405,Kwekwe,Warehouse,2815,2,,147042,Second half,,5
+Project 406,Harare,Commercial building,4257,5,,170599,First half,,85
+Project 407,Chinhoyi,Church,2518,5,,137361,First half,,5
+Project 408,Gweru,Church,3621,2,,96058,First half,,72
+Project 409,Chitungwiza,Residential home,3787,5,Silty,81012,Second half,,113
+Project 410,Kariba,Church,736,5,,111245,Second half,,5
+Project 411,Gweru,Church,2818,4,,28867,Second half,,3
+Project 412,Chinhoyi,Church,4937,3,,106946,Second half,,98
+Project 413,Victoria Falls,Church,4581,5,,138468,Second half,,91
+Project 414,Bulawayo,Residential home,2592,2,Sandy,147439,Second half,,77
+Project 415,Mutare,Double Story,1177,2,,166916,First half,Double story,5
+Project 416,Chinhoyi,Warehouse,1607,3,,40387,First half,,3
+Project 417,Masvingo,Residential home,3993,2,Silty,138083,First half,,119
+Project 418,Harare,Commercial building,1709,5,,79373,First half,,3
+Project 419,Gweru,Double Story,1920,2,,92771,First half,Single story,3
+Project 420,Victoria Falls,Double Story,936,4,,93849,Second half,Single story,3
+Project 421,Chitungwiza,Commercial building,1715,3,,57048,Second half,,3
+Project 422,Masvingo,Commercial building,2982,5,,175825,First half,,5
+Project 423,Kwekwe,Residential home,792,4,Peaty,19388,First half,,23
+Project 424,Harare,Residential home,1369,4,Clay,181905,First half,,41
+Project 425,Chinhoyi,Double Story,2409,4,,85935,First half,Double story,3
+Project 426,Gweru,Church,1909,2,,120750,First half,,5
+Project 427,Chitungwiza,Residential home,4065,2,Clay,51788,Second half,,121
+Project 428,Gweru,Commercial building,3860,3,,177605,First half,,77
+Project 429,Masvingo,Church,2733,5,,121130,First half,,5
+Project 430,Chitungwiza,Commercial building,674,4,,189909,First half,,5
+Project 431,Victoria Falls,Residential home,2185,3,Loam,7928,Second half,,65
+Project 432,Masvingo,Residential home,1744,5,Sandy,161489,First half,,52
+Project 433,Kwekwe,Commercial building,538,2,,39900,Second half,,3
+Project 434,Victoria Falls,Residential home,4536,2,Clay,49004,Second half,,136
+Project 435,Chinhoyi,Commercial building,1932,3,,157064,Second half,,5
+Project 436,Harare,Church,2527,5,,140862,First half,,5
+Project 437,Bulawayo,Warehouse,3199,2,,162913,Second half,,63
+Project 438,Chitungwiza,Commercial building,3572,2,,46789,First half,,71
+Project 439,Chinhoyi,Warehouse,1434,3,,64053,First half,,3
+Project 440,Harare,Warehouse,2378,5,,94728,First half,,3
+Project 441,Kwekwe,Commercial building,510,5,,82839,Second half,,3
+Project 442,Gweru,Church,3976,3,,154793,First half,,79
+Project 443,Mutare,Double Story,3599,5,,170584,First half,Double story,71
+Project 444,Chitungwiza,Double Story,2575,4,,104209,First half,Double story,5
+Project 445,Gweru,Church,1987,3,,175210,First half,,5
+Project 446,Kwekwe,Double Story,3973,4,,20567,Second half,Double story,79
+Project 447,Chitungwiza,Commercial building,1123,4,,31913,First half,,3
+Project 448,Victoria Falls,Warehouse,4966,3,,21071,First half,,99
+Project 449,Bulawayo,Warehouse,3463,4,,116769,Second half,,69
+Project 450,Bulawayo,Warehouse,1152,2,,67858,Second half,,3
+Project 451,Kariba,Double Story,1074,4,,51411,Second half,Single story,3
+Project 452,Gweru,Residential home,1253,5,Sandy,61417,Second half,,37
+Project 453,Chinhoyi,Commercial building,2165,3,,131203,First half,,5
+Project 454,Mutare,Church,918,5,,87167,Second half,,3
+Project 455,Mutare,Double Story,4842,2,,130429,Second half,Double story,96
+Project 456,Kwekwe,Church,3682,5,,70313,First half,,73
+Project 457,Kariba,Church,406,3,,182434,First half,,5
+Project 458,Bulawayo,Double Story,3917,2,,29026,Second half,Single story,78
+Project 459,Chinhoyi,Warehouse,2188,5,,148050,First half,,5
+Project 460,Bulawayo,Commercial building,2672,3,,115353,First half,,5
+Project 461,Bulawayo,Double Story,1513,5,,122142,Second half,Double story,5
+Project 462,Kariba,Commercial building,1217,2,,63854,First half,,3
+Project 463,Gweru,Residential home,3778,4,Silty,25236,Second half,,113
+Project 464,Bulawayo,Church,2972,5,,118642,Second half,,5
+Project 465,Harare,Warehouse,4386,2,,118114,First half,,87
+Project 466,Victoria Falls,Double Story,4018,2,,101416,First half,Double story,80
+Project 467,Kwekwe,Double Story,4945,3,,115956,First half,Single story,98
+Project 468,Chitungwiza,Residential home,2050,2,Clay,95642,First half,,61
+Project 469,Chitungwiza,Warehouse,2810,3,,137445,First half,,5
+Project 470,Victoria Falls,Warehouse,2049,5,,28473,First half,,3
+Project 471,Mutare,Church,4999,3,,146619,Second half,,99
+Project 472,Chinhoyi,Warehouse,2663,4,,117021,Second half,,5
+Project 473,Victoria Falls,Double Story,1160,3,,161730,First half,Double story,5
+Project 474,Chinhoyi,Church,4152,5,,172941,Second half,,83
+Project 475,Victoria Falls,Double Story,2248,3,,149165,First half,Single story,5
+Project 476,Victoria Falls,Double Story,2385,3,,150066,Second half,Single story,5
+Project 477,Bulawayo,Commercial building,3376,5,,138372,First half,,67
+Project 478,Kwekwe,Double Story,946,4,,199018,First half,Single story,5
+Project 479,Chitungwiza,Double Story,3735,5,,111333,First half,Single story,74
+Project 480,Chitungwiza,Church,2929,2,,4643,First half,,3
+Project 481,Chinhoyi,Commercial building,3825,5,,53714,Second half,,76
+Project 482,Bulawayo,Warehouse,3826,4,,55527,First half,,76
+Project 483,Mutare,Double Story,3758,2,,83306,Second half,Double story,75
+Project 484,Victoria Falls,Double Story,3746,3,,100426,First half,Double story,74
+Project 485,Kariba,Commercial building,1816,5,,195506,Second half,,5
+Project 486,Chitungwiza,Warehouse,1579,5,,44234,Second half,,3
+Project 487,Masvingo,Church,2395,3,,192744,Second half,,5
+Project 488,Kwekwe,Residential home,857,2,Clay,107491,Second half,,25
+Project 489,Gweru,Commercial building,4276,3,,22171,Second half,,85
+Project 490,Victoria Falls,Church,2661,5,,87575,First half,,3
+Project 491,Gweru,Church,741,2,,167699,Second half,,5
+Project 492,Bulawayo,Commercial building,4519,2,,118785,Second half,,90
+Project 493,Chitungwiza,Warehouse,1737,4,,3271,First half,,3
+Project 494,Harare,Commercial building,4230,4,,143216,First half,,84
+Project 495,Mutare,Church,1359,2,,25730,First half,,3
+Project 496,Chinhoyi,Double Story,1331,3,,192820,First half,Single story,5
+Project 497,Kwekwe,Double Story,3350,4,,3039,Second half,Single story,67
+Project 498,Mutare,Double Story,2246,5,,25898,Second half,Double story,3
+Project 499,Victoria Falls,Warehouse,871,3,,62238,First half,,3
+Project 500,Bulawayo,Warehouse,4535,2,,160046,First half,,90
